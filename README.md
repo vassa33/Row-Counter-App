@@ -6,7 +6,7 @@ A simplistic App made using HTML, CSS &amp; JavaScript
 > Finally, use the `save` button to track your count every step of the way by recording your values
 > 
 
-If named otherwise, this app can easily be a passenger counter, a grocery counter or simply just a counter for anything.
+If named otherwise, this app can easily be a passenger counter, a game scoreboard (probably with a better background image) or simply just a counter for anything.
 
 * Author:- `Peggy Ongoma`
 
